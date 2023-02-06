@@ -36,7 +36,7 @@ $weeklyIncome = $monthlyIncome / 4.33;
 echo "\nWeekly income before calculation:\n$weeklyIncome\n";
 
 $weeklyExpenses = [
-    "gas" => 25,
+    "gas" => 26,
     "food" => 90,
     "entertainment" => 47
 ];
