@@ -13,7 +13,7 @@
         Denominator: <input type="number" name="div_den"><br>
         <button type="submit">Divide</button><br>
     </form>
-    <a href="index.php">Reset</a>
+    <a href="index.php">Reset !</a>
 </body>
 
 </html>
